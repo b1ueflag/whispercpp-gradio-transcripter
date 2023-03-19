@@ -1,0 +1,1 @@
+# whispercpp-gradio-transcripter
