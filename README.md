@@ -5,6 +5,6 @@
 
 ```shell
 git clone https://github.com/b1ueflag/whispercpp-gradio-transcripter/
-docker compose up
-open localhost:7680 # or other
+docker compose up --build
+# open localhost:7680
 ```
